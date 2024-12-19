@@ -35,7 +35,7 @@ repositories {
 }*/
 repositories {
     maven {
-        url 'https://maven.aliyun.com/repository/public'
+        url 'https://mirrors.cloud.tencent.com/repository/maven-public/'
     }
 }
 
